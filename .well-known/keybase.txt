@@ -1,0 +1,69 @@
+
+==================================================================
+https://keybase.io/dewaka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cdewaka.com
+  * I am dewaka (https://keybase.io/dewaka) on keybase.
+  * I have a public key with fingerprint D736 AC36 64C6 8357 0600  B686 06F9 E16C D9A7 5C97
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d55563da0346ed20e85540ab7cc65dc132a1833475b646636416747ae803082b0a",
+      "fingerprint": "d736ac3664c683570600b68606f9e16cd9a75c97",
+      "host": "keybase.io",
+      "key_id": "06f9e16cd9a75c97",
+      "kid": "0101d55563da0346ed20e85540ab7cc65dc132a1833475b646636416747ae803082b0a",
+      "uid": "c0d28286aee9e5849bf8c843f850cd19",
+      "username": "dewaka"
+    },
+    "service": {
+      "hostname": "cdewaka.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568310649,
+  "expire_in": 157680000,
+  "prev": "5741f1e1ffe5def47ac41c3a04082a5fca7568a5d047a4246dc8c3303443656b",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSFRBGN5VEzVMwzdLsyNGksqcPTNzzm5QRCZdTKOsRLNtzpw5elzd
+s+2ul1WWoIhuBvXQQ2FFZYiBPSiUSpHXLkgWSEYRpVCRRJkPCdqF5qg99dq8DPP/
+3/fN/338g/GRtjj7htzUG5mm8MU+3HehxlbWcDzUKKimFhJcjYKHzV+sSmOBoNtj
+aIJLACIQNYQQljQCJIiZ5gBMQQgCosqUYqRRUXIQUZEkKCMVQ4wlDEUsQ5kwBUhA
+caiACFmCbnjLmd/nN7xBLqvJEiZUwhhSrEhIBhgAFSsYYN3JREw1J5ERdcqcWGEG
+LAYfTiUBlmOYvMYf7oXx/sX/57lr5uUo0ByKQ8GEMSdDCnSqukIVKOkKAlQTnRYw
+wPxeUs0sd6yOeIgQzhJ4rdagzIrV8rHYpwuAHGpWc6LPbwZNalbxRkUw6Au4LGIw
+5LOQdUx1L2q4VcOr8RA5o5b5A4bpFVwiR9KgYYmKiAcpAgydWQKr9xl+5jYsBJKx
+Avix/mG1XBLJUNRFJuo6QxrTuV8KRSoRALlngnTKk8QKQRrgLeiAWKMKlSQeIpQw
+wqpguTrsNbk25HOScq4ZMMq9JFjjZ0K4v/dAlM0eZ4teEmFtly0uNvHvzuWGYmwP
+Ttzuu3pzqq0gJSarsuXk2ujJytOs+drzvve12wqK9SNDnaeGetYX5fVN3pX3nh1t
+nUiYHTgU3t94p+Dlnl23ThrZ0+HNT0Y+l9w/lnb9Te7XOW/h2/aHa5LzThlqOJQY
+P1WayI5/Xy72d6d3OseHMjO2jBSuTn+Xcm502Y/X3SBjVbjjVVfah7x92789Ozic
+0lBnc63Mv0STPC2lkTsvr4jKT20qmZmIv9iztLIj+3Gs/df4zCN9JEHrDU1O2bsG
+y56ONPv7B8bawmj06Jm41k8N7o9bi5J3mE3T4/0Rc7ljV5J+042z2893tv9ynZY2
+OaLXje3Or3cxT2f9vZ8NxS/G/gAHPTwF
+=3PvR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dewaka
+
+==================================================================
